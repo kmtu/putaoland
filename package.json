@@ -1,7 +1,7 @@
 {
-  "name": "pubyland",
+  "name": "putaoland",
   "version": "1.0.0",
-  "description": "A land full of Puby's creation",
+  "description": "A land full of Puby's and Taoby's creation",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
